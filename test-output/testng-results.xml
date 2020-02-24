@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9187" started-at="2020-02-23T17:23:57 CST" finished-at="2020-02-23T17:24:06 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9187" started-at="2020-02-23T17:23:57 CST" finished-at="2020-02-23T17:24:06 CST">
+      <class name="test.QuickDraftTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.QuickDraftTest@1e4a7dd4]" name="launchBrowser" is-config="true" duration-ms="3323" started-at="2020-02-23T17:23:57 CST" finished-at="2020-02-23T17:24:00 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="userShouldBeAbleToPostDraft()[pri:0, instance:test.QuickDraftTest@1e4a7dd4]" name="userShouldBeAbleToPostDraft" duration-ms="5635" started-at="2020-02-23T17:24:00 CST" finished-at="2020-02-23T17:24:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToPostDraft -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test.QuickDraftTest@1e4a7dd4]" name="close" is-config="true" duration-ms="176" started-at="2020-02-23T17:24:06 CST" finished-at="2020-02-23T17:24:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.QuickDraftTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
