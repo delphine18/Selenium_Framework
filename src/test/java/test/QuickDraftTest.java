@@ -33,7 +33,7 @@ public class QuickDraftTest {
 		String actualTitle = quickDraftPage.getPageTitle();
 		Assert.assertEquals(actualTitle, expectedTitle, "Wrong Page!!!");
 
-		// Call the login method from the LoginPage Class
+		// Call the login method from the Draft page Class
 		quickDraftPage.login("opensourcecms", "opensourcecms");
 
 		// Validate page show up using the Explicit Wait
